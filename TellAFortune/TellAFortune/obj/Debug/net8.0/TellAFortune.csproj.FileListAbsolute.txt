@@ -1,0 +1,15 @@
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/bin/Debug/net8.0/TellAFortune
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/bin/Debug/net8.0/TellAFortune.deps.json
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/bin/Debug/net8.0/TellAFortune.runtimeconfig.json
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/bin/Debug/net8.0/TellAFortune.dll
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/bin/Debug/net8.0/TellAFortune.pdb
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.AssemblyInfo.cs
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.sourcelink.json
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.dll
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/refint/TellAFortune.dll
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.pdb
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/TellAFortune.genruntimeconfig.cache
+/Users/razeft/learning/C#/TellAFortune/TellAFortune/obj/Debug/net8.0/ref/TellAFortune.dll
