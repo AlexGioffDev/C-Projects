@@ -1,0 +1,15 @@
+/Users/razeft/learning/C#/OrderID/OrderID/bin/Debug/net8.0/OrderID
+/Users/razeft/learning/C#/OrderID/OrderID/bin/Debug/net8.0/OrderID.deps.json
+/Users/razeft/learning/C#/OrderID/OrderID/bin/Debug/net8.0/OrderID.runtimeconfig.json
+/Users/razeft/learning/C#/OrderID/OrderID/bin/Debug/net8.0/OrderID.dll
+/Users/razeft/learning/C#/OrderID/OrderID/bin/Debug/net8.0/OrderID.pdb
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.AssemblyInfo.cs
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.sourcelink.json
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.dll
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/refint/OrderID.dll
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.pdb
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/OrderID.genruntimeconfig.cache
+/Users/razeft/learning/C#/OrderID/OrderID/obj/Debug/net8.0/ref/OrderID.dll
