@@ -1,0 +1,14 @@
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/bin/Debug/net8.0/ReverseWord
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/bin/Debug/net8.0/ReverseWord.deps.json
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/bin/Debug/net8.0/ReverseWord.runtimeconfig.json
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/bin/Debug/net8.0/ReverseWord.dll
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/bin/Debug/net8.0/ReverseWord.pdb
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.AssemblyInfo.cs
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.dll
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/refint/ReverseWord.dll
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.pdb
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ReverseWord.genruntimeconfig.cache
+/Users/razeft/learning/C#/ReverseWord/ReverseWord/obj/Debug/net8.0/ref/ReverseWord.dll
