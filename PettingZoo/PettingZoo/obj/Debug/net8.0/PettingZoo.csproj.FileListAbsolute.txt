@@ -1,0 +1,15 @@
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.deps.json
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.runtimeconfig.json
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.dll
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.pdb
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.AssemblyInfo.cs
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.sourcelink.json
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.dll
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/refint/PettingZoo.dll
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.pdb
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.genruntimeconfig.cache
+/Users/razeft/learning/C#/PettingZoo/PettingZoo/obj/Debug/net8.0/ref/PettingZoo.dll
