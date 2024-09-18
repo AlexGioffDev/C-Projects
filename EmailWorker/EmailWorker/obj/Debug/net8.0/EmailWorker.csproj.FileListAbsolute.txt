@@ -1,0 +1,15 @@
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/bin/Debug/net8.0/EmailWorker
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/bin/Debug/net8.0/EmailWorker.deps.json
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/bin/Debug/net8.0/EmailWorker.runtimeconfig.json
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/bin/Debug/net8.0/EmailWorker.dll
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/bin/Debug/net8.0/EmailWorker.pdb
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.AssemblyInfo.cs
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.sourcelink.json
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.dll
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/refint/EmailWorker.dll
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.pdb
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/EmailWorker.genruntimeconfig.cache
+/Users/razeft/learning/C#/EmailWorker/EmailWorker/obj/Debug/net8.0/ref/EmailWorker.dll
