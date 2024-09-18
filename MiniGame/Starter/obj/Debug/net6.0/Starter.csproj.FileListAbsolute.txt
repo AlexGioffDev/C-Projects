@@ -1,0 +1,15 @@
+/Users/razeft/learning/C#/MiniGame/Starter/bin/Debug/net6.0/Starter
+/Users/razeft/learning/C#/MiniGame/Starter/bin/Debug/net6.0/Starter.deps.json
+/Users/razeft/learning/C#/MiniGame/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/Users/razeft/learning/C#/MiniGame/Starter/bin/Debug/net6.0/Starter.dll
+/Users/razeft/learning/C#/MiniGame/Starter/bin/Debug/net6.0/Starter.pdb
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.sourcelink.json
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.dll
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/refint/Starter.dll
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.pdb
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/Users/razeft/learning/C#/MiniGame/Starter/obj/Debug/net6.0/ref/Starter.dll

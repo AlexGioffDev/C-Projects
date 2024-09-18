@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQl6fmc7p3uUnGKC6GSz4RXHfwG6FNtiEUNEPhCpsyupdS6T7nnbPI62pbfb8hJbtnK3uvPb3DcKxqkUu9StgA==",
+  "success": true,
+  "projectFilePath": "/Users/razeft/learning/C#/MiniGame/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/razeft/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/razeft/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/razeft/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.28/microsoft.netcore.app.host.osx-arm64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
