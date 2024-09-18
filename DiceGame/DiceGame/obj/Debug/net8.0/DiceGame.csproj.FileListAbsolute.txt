@@ -1,0 +1,15 @@
+/Users/razeft/learning/C#/DiceGame/DiceGame/bin/Debug/net8.0/DiceGame
+/Users/razeft/learning/C#/DiceGame/DiceGame/bin/Debug/net8.0/DiceGame.deps.json
+/Users/razeft/learning/C#/DiceGame/DiceGame/bin/Debug/net8.0/DiceGame.runtimeconfig.json
+/Users/razeft/learning/C#/DiceGame/DiceGame/bin/Debug/net8.0/DiceGame.dll
+/Users/razeft/learning/C#/DiceGame/DiceGame/bin/Debug/net8.0/DiceGame.pdb
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfoInputs.cache
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfo.cs
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.sourcelink.json
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.dll
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/refint/DiceGame.dll
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.pdb
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/DiceGame.genruntimeconfig.cache
+/Users/razeft/learning/C#/DiceGame/DiceGame/obj/Debug/net8.0/ref/DiceGame.dll
